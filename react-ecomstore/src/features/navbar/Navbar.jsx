@@ -1,5 +1,5 @@
 import Dropdown from "./Dropdown";
-import logo from "./ecomstore-logo.png"
+import logo from "../images/ecomstore-logo.png"
 
 function Navbar() {
   return (
